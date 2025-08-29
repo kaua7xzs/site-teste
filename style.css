@@ -1,0 +1,23 @@
+body {
+    background-image: url("fundo.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+header {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6); /* preto transparente */
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+section {
+    background-color: rgba(255, 255, 255, 0.8); /* branco transparente */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3); /* sombra suave */
+}
